@@ -1,0 +1,12 @@
+man-wcis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+man-wcis\list.o: E:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+man-wcis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+man-wcis\list.o: E:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+man-wcis\list.o: E:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+man-wcis\list.o: ../Core/Inc/FreeRTOSConfig.h
+man-wcis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+man-wcis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+man-wcis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+man-wcis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+man-wcis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+man-wcis\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

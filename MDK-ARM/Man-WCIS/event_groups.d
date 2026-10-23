@@ -1,0 +1,15 @@
+man-wcis\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+man-wcis\event_groups.o: E:\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+man-wcis\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+man-wcis\event_groups.o: E:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+man-wcis\event_groups.o: E:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+man-wcis\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+man-wcis\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+man-wcis\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+man-wcis\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+man-wcis\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+man-wcis\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+man-wcis\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+man-wcis\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+man-wcis\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+man-wcis\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

@@ -1,0 +1,14 @@
+man-wcis\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+man-wcis\stream_buffer.o: E:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+man-wcis\stream_buffer.o: E:\keil5\ARM\ARMCC\Bin\..\include\string.h
+man-wcis\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+man-wcis\stream_buffer.o: E:\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+man-wcis\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+man-wcis\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+man-wcis\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+man-wcis\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+man-wcis\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+man-wcis\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+man-wcis\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+man-wcis\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+man-wcis\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h

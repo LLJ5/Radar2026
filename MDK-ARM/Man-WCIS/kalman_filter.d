@@ -1,0 +1,10 @@
+man-wcis\kalman_filter.o: ..\Hardware\kalman_filter.c
+man-wcis\kalman_filter.o: ..\Hardware\kalman_filter.h
+man-wcis\kalman_filter.o: ../DSP/Include/arm_math.h
+man-wcis\kalman_filter.o: ../Drivers/CMSIS/Include/core_cm4.h
+man-wcis\kalman_filter.o: E:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+man-wcis\kalman_filter.o: ../Drivers/CMSIS/Include/cmsis_version.h
+man-wcis\kalman_filter.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+man-wcis\kalman_filter.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+man-wcis\kalman_filter.o: E:\keil5\ARM\ARMCC\Bin\..\include\string.h
+man-wcis\kalman_filter.o: E:\keil5\ARM\ARMCC\Bin\..\include\math.h
